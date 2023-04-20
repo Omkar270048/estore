@@ -367,7 +367,7 @@ img {
   padding: 10px;
   /* border-bottom: 2px solid var(--secondar); */
   background-color: rgba(0, 0, 0, 0.2);
-
+  color: #fff;
 
 }
 
@@ -380,6 +380,7 @@ img {
   outline-color: var(--secondar);
   background-color: rgba(0, 0, 0, 0.2);
   /* border-bottom: 2px solid var(--secondar); */
+  color: #fff;
 
 }
 
